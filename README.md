@@ -1,4 +1,4 @@
-# KARRI REACT NATIVE EXERCISE
+# WEATHER REACT NATIVE EXAMPLE
 
 We have put together a simple boilerplate for a React Native exercise. From this simple exercise we can see your compentence and familiarity with using React Native and some core design patterns we use in our everyday coding.
 
@@ -21,4 +21,18 @@ Using the boilerplate provided you are asked to extend this app with the followi
 
 We suspect this exercise should take no more than a working day (8 hours) to complete. And look forward to seeing what you come up with.
 
-### Thank You
+## Created by
+[OmiSoft](https://omisoft.net/?utm_source=github&utm_medium=social)
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
+[1]: http://www.twitter.com/omisoftnet
+[2]: http://www.facebook.com/omisoftnet
+
+[1.1]: http://i.imgur.com/wWzX9uB.png (OmiSoft.net Twitter page)
+[2.1]: http://i.imgur.com/fep1WsG.png (OmiSoft.net Facebook page)
+
+## License
+ReactNative PineApple Template is released under the MIT license.  
+See the [LICENSE](./LICENSE.md) for details.
