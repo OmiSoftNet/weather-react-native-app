@@ -1,2 +1,15 @@
+# OSX
+.DS_Store
+
+# node.js
 node_modules
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Expo
 .expo
+
+# IDEs
+
+.idea/
