@@ -3,7 +3,7 @@
 
 # WEATHER REACT NATIVE EXAMPLE
 
-Here you can find a simple boilerplate for a React Native app. In this simple exercise you can see some core design patterns and best practices for React Native application that can be used everyday coding.
+Here you can find a simple boilerplate for a React Native app. In this simple exercise you can see some core design patterns and best practices for React Native application that can be used in everyday coding.
 
 ### Please Note
 
